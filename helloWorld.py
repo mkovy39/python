@@ -1,2 +1,1 @@
-variable = "Hello world"
-print(variable)
+print("Hello World")
